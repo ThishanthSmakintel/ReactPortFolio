@@ -37,7 +37,7 @@ function Home() {
           </Typography>
           <Typewriter text="Web Developer | PHP, Node.js, React" />
           <Typography variant="body1">
-            I have over 3 years of programming experience, with expertise in web development using PHP (Laravel), Node.js, and React. Explore my portfolio and projects to learn more about my work.
+            I have over 1 year of programming experience, with expertise in web development using PHP (Laravel), Node.js, and React. Explore my portfolio and projects to learn more about my work.
           </Typography>
         </div>
       </div>
